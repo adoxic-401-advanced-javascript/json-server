@@ -1,0 +1,36 @@
+{
+  "catagories": [
+    {
+      "_id": 1,
+      "name": "Barn Owl",
+      "flying": "true",
+      "description": "Brown with spots"
+    },
+    {
+      "_id": 2,
+      "name": "Hawk",
+      "flying": "true",
+      "description": "Brown and white"
+    },
+    {
+      "_id": 3,
+      "name": "Kakapo",
+      "flying": "false",
+      "description": "Motled green"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "name": "Chocolate Frosted",
+      "vegan": "false",
+      "description": "Chocolate frosted cake donut"
+    },
+    {
+      "_id": 3,
+      "name": "Strawberry Cake",
+      "vegan": "false",
+      "description": "Strawberry cake donut"
+    }
+  ]
+}
